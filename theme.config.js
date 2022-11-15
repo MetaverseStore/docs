@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/MetaverseStore',
-  docsRepositoryBase: 'https://github.com/MetaverseStore/Docs/tree/main',
+  docsRepositoryBase: 'https://github.com/MetaverseStore/docs/tree/main',
   titleSuffix: ' – Metastore',
   logo: (
     <>
