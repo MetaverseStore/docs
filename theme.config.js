@@ -20,10 +20,10 @@ export default {
       <meta name="og:description" content="The Metaverse Marketplace" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="/og.png" />
-      <meta name="twitter:site:domain" content="Metastore.store" />
-      <meta name="twitter:url" content="https://metastore.store" />
+      <meta name="twitter:site:domain" content="meta-store.in" />
+      <meta name="twitter:url" content="https://meta-store.in" />
       <meta name="og:title" content="Metastore: The Metaverse Marketplace" />
-      <meta name="og:image" content="/og.png" />
+      <meta name="og:image" content="/og_image.png" />
       <meta name="apple-mobile-web-app-title" content="Metastore" />
       <link
         rel="apple-touch-icon"
@@ -55,6 +55,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
+  darkMode: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Metastore.</>
 }
